@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/goldchitapp/static/css/main.d48e3899.css",
+    "main.js": "/goldchitapp/static/js/main.a7d04075.js",
+    "static/js/453.98436c57.chunk.js": "/goldchitapp/static/js/453.98436c57.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/goldchitapp/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/goldchitapp/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/backround.jpg": "/goldchitapp/static/media/backround.60b57c52e359897273c3.jpg",
+    "index.html": "/goldchitapp/index.html",
+    "main.d48e3899.css.map": "/goldchitapp/static/css/main.d48e3899.css.map",
+    "main.a7d04075.js.map": "/goldchitapp/static/js/main.a7d04075.js.map",
+    "453.98436c57.chunk.js.map": "/goldchitapp/static/js/453.98436c57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48e3899.css",
+    "static/js/main.a7d04075.js"
+  ]
+}
